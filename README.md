@@ -71,5 +71,6 @@ end
 endmodule
 
 
-#waveform
+#waveform 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/11f67370-8416-4ffa-9229-3417fd34f0b5" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18019213-fe9c-41fe-8428-450fd71a490c" />
